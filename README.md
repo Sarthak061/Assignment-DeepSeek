@@ -1,7 +1,5 @@
 # Assignment-DeepSeek
 
-# DeepSeek R1 WebUI
-
 This repository provides a lightweight Flask-based web interface for interacting with the **DeepSeek-R1-Distill-Qwen-1.5B** model, powered by Hugging Face's `transformers` library. The interface allows users to submit queries and receive model-generated responses in real-time.
 
 ---
